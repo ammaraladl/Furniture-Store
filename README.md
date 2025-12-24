@@ -19,9 +19,14 @@ It includes pages for browsing products, viewing product details, and a styled u
 
 ## 📁 Project Preview
 
-![Furniture Store Screenshot](link-to-your-screenshot.png)
+![Home Page](screenshots/home.png)
+![Products](screenshots/Product.png)
+![Product Details](screenshots/SingleProduct.png)
+![Footer](screenshots/Footer.png)
+![Mobile View](screenshots/Responsive.png)
 
-*Add screenshots or animated GIFs here to visually explain your project.*
+
+
 
 ---
 
