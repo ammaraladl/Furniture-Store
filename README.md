@@ -19,11 +19,11 @@ It includes pages for browsing products, viewing product details, and a styled u
 
 ## 📁 Project Preview
 
-![Home Page](screenshots/home.png)
-![Products](screenshots/Product.png)
-![Product Details](screenshots/SingleProduct.png)
-![Footer](screenshots/Footer.png)
-![Mobile View](screenshots/Responsive.png)
+![Home Page](Screenshots/home.png)
+![Products](Screenshots/Product.png)
+![Product Details](Screenshots/SingleProduct.png)
+![Footer](Screenshots/Footer.png)
+![Mobile View](Screenshots/Responsive.png)
 
 
 
