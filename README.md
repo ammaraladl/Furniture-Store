@@ -24,6 +24,7 @@ It includes pages for browsing products, viewing product details, and a styled u
 ![Product Details](Screenshots/SingleProduct.png)
 ![Footer](Screenshots/Footer.png)
 ![Mobile View](Screenshots/Responsive.png)
+![Mobile View](Screenshots/Responsive1.png)
 
 
 
